@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hey There ! I'm Bugz (Or MathysB)
 
+My name is Mathys Benoit but my call sign is "Bugz". I live in Avignon, in the south of France.
+
+I like web, aviation and developement. My dream is to become a naval engineer and fighter pilot.
+
+#### Personal stuffs
+- 🔭 Find my repositories [here](https://github.com/MathysB?tab=repositories)
+- 📫 If you want to contact me, you can go on discord (DM) [Discord](https://discord.com/users/564820051069501441)
 <!--
 **MathysB/MathysB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
